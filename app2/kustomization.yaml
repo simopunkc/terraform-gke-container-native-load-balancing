@@ -1,0 +1,4 @@
+resources:
+  - deployment.yaml
+  - service-neg.yaml
+# namePrefix: second-

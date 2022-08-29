@@ -1,0 +1,5 @@
+resources:
+  - app1
+  - app2
+  - ingress.yaml
+# namePrefix: cluster-a-
